@@ -1,4 +1,17 @@
 h1 {
-  font-family: "Nunito", sans-serif;
+  font-family: "Playfair Display", serif;
   font-weight: 700;
+}
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+.hero {
+  background-color: #f9f7fe;
+  text-align: center;
+}
+.hero p {
+  font-family: ;
+  font-size: 36px;
+  font-weight: bold;
 }
